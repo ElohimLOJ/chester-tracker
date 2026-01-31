@@ -2,7 +2,7 @@
 
 A beautiful task management app built specifically for tracking AI-assisted work with Apple's design language.
 
-![Chester Tracker](https://img.shields.io/badge/Status-Complete-brightgreen) ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Flask](https://img.shields.io/badge/Flask-3.0.0-red)
+[![GitHub](https://img.shields.io/badge/GitHub-ElohimLOJ%2Fchester--tracker-blue?logo=github)](https://github.com/ElohimLOJ/chester-tracker) ![Chester Tracker](https://img.shields.io/badge/Status-Complete-brightgreen) ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Flask](https://img.shields.io/badge/Flask-3.0.0-red) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
 
@@ -54,7 +54,8 @@ A beautiful task management app built specifically for tracking AI-assisted work
 ## 🚀 Quick Start
 
 ```bash
-# Clone or navigate to the directory
+# Clone from GitHub
+git clone https://github.com/ElohimLOJ/chester-tracker.git
 cd chester-tracker
 
 # Install dependencies
@@ -64,7 +65,7 @@ pip3 install -r requirements.txt
 python3 app.py
 
 # Open in browser
-# http://127.0.0.1:5000
+open http://127.0.0.1:5000
 ```
 
 ## 💡 Usage Guide
